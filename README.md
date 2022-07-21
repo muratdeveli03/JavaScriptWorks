@@ -1,1 +1,2 @@
 # JavaScriptWorks
+Javascript function examples
